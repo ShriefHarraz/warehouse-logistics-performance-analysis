@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,city,warehouse_type
+101,WH_AbuDhabi,Abu Dhabi,Regional
+102,WH_Dubai,Dubai,Regional
+103,WH_AlAin,Al Ain,Local
+104,WH_Sharjah,Sharjah,Regional

@@ -1,0 +1,6 @@
+carrier_id,carrier_name,service_type
+201,SwiftShip,Standard
+202,GulfExpress,Express
+203,DesertLine,Standard
+204,QuickRoute,Economy
+205,FalconLogistics,Express

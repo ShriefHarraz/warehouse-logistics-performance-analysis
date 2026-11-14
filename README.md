@@ -165,6 +165,16 @@ The Power BI report contains three analytical pages:
 1. **Overview:** Overall KPIs, warehouse performance, carrier performance, and monthly delivery trends.
 2. **Carrier Deep Dive:** Delivery time, shipping cost, and late orders by carrier.
 3. **Warehouse Deep Dive:** Processing time, shipping cost, on-time delivery, and carrier performance by warehouse.
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](<Screenshot 2026-11-14 201958.png>)
+
+### Carrier Performance Analysis
+![Carrier Performance](<Screenshot 2026-11-14 202028.png>)
+
+### Warehouse Deep Dive
+![Warehouse Performance](<Screenshot 2026-11-14 202057.png>)
 
 ---
 
